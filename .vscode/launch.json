@@ -6,10 +6,10 @@
     "configurations": [
 
         {
-            "type": "chrome",
+            "type": "firefox",
             "request": "launch",
             "name": "Open index.html",
-            "file": "../Charisma_Site/index.html"
+            "file": "/Documents/Charisma/Development1/Charisma_Site/index.html"
         }
     ]
 }
